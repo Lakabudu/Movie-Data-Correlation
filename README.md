@@ -1,5 +1,4 @@
 # Movie-Data-Correlation
-Correlation-in-Movies-data-using-Python-
 This analysis is aimed at finding the correlation between some variables in the movies dataset.
 
 Libraries used: Pandas, Seaborn, Matplotlib and Numpy
